@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="188px" height="170px" viewBox="0 0 188 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#34FFC5" offset="0%"></stop>
+            <stop stop-color="#52D0EA" offset="48.1841401%"></stop>
+            <stop stop-color="#FF9FBA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-rotate" transform="translate(-312.000000, -113.000000)">
+            <g id="Group-3" transform="translate(312.000000, 113.000000)">
+                <rect id="Rectangle" stroke="#6C6F73" stroke-width="3" opacity="0.200000003" transform="translate(93.750552, 85.000000) rotate(-75.000000) translate(-93.750552, -85.000000) " x="50.2505523" y="1.5" width="87" height="167" rx="12"></rect>
+                <rect id="Rectangle" stroke="#D9D9D9" stroke-width="3" fill="#131414" x="50.2505523" y="1.5" width="87" height="167" rx="12"></rect>
+                <path d="M124.750552,7.5 C126.545478,7.5 128.170478,8.22753728 129.346746,9.40380592 C130.523015,10.5800746 131.250552,12.2050746 131.250552,14 L131.250552,14 L131.250552,156 C131.250552,157.794925 130.523015,159.419925 129.346746,160.596194 C128.170478,161.772463 126.545478,162.5 124.750552,162.5 L124.750552,162.5 L62.7505523,162.5 C60.9556268,162.5 59.3306268,161.772463 58.1543582,160.596194 C56.9780895,159.419925 56.2505523,157.794925 56.2505523,156 L56.2505523,156 L56.2505523,14 C56.2505523,12.2050746 56.9780895,10.5800746 58.1543582,9.40380592 C59.3306268,8.22753728 60.9556268,7.5 62.7505523,7.5 L62.7505523,7.5 L70.2505523,7.5 L70.2505523,8 C70.2505523,10.0244056 71.0526289,11.8614694 72.3563035,13.2107752 C73.6664401,14.5667692 75.4832057,15.4300233 77.5015705,15.4959399 L77.5015705,15.4959399 L109.750552,15.5 C111.774958,15.5 113.612022,14.6979234 114.961327,13.3942488 C116.317142,12.0842852 117.180348,10.2678264 117.246466,8.24978134 L117.246466,8.24978134 L117.248919,7.5 Z" id="Combined-Shape" stroke="#D9D9D9" opacity="0.3"></path>
+                <g id="Group" transform="translate(59.750552, 85.000000) scale(1, -1) translate(-59.750552, -85.000000) translate(11.750552, 37.000000)">
+                    <path d="M4.69544908,26.8923638 C1.68577341,33.1677841 0,40.198809 0,47.6235674 C0,65.1814153 9.4270783,80.5374511 23.4958062,88.9062462" id="Path" stroke="url(#linearGradient-1)" stroke-width="6" stroke-linecap="round"></path>
+                    <circle id="Oval" fill="#FF9FBA" cx="23" cy="8.08166807" r="3"></circle>
+                    <circle id="Oval" fill="#FF9FBA" cx="16" cy="13.0816681" r="3"></circle>
+                    <circle id="Oval" fill="#FF9FBA" cx="10" cy="19.0816681" r="3"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
